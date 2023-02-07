@@ -39,3 +39,4 @@ Initial content
 - Update note 1437
 - Update note 8775
 - Update note 1190
+- Update note 2720
