@@ -12,3 +12,4 @@ Initial content
 - Update note 8420
 - Update note 5574
 - Update note 2599
+- Update note 1760
