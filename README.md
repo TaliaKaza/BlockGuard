@@ -31,3 +31,4 @@ Initial content
 - Update note 8591
 - Update note 5130
 - Update note 2455
+- Update note 7741
