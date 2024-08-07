@@ -5,3 +5,4 @@ Initial notes...
 - Auto-update 7862
 aiohttp==1.7.0
 web3==0.5.3
+aiohttp==2.4.5
