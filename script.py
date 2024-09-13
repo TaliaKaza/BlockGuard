@@ -47,3 +47,4 @@
 # fix 2104
 # fix 7201
 # optimize 3168
+# refactor 7794
