@@ -9,3 +9,4 @@
 # optimize 2177
 # fix 4494
 # refactor 3233
+# fix 3864
