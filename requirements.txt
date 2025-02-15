@@ -6,3 +6,4 @@ Initial notes...
 aiohttp==1.7.0
 web3==0.5.3
 aiohttp==2.4.5
+requests==1.0.8
