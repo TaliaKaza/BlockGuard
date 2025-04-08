@@ -4,3 +4,4 @@ Initial notes...
 - Auto-update 3828
 - Auto-update 7862
 aiohttp==1.7.0
+web3==0.5.3
