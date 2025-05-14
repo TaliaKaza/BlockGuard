@@ -21,3 +21,4 @@ Initial content
 - Update note 7440
 - Update note 1519
 - Update note 8148
+- Update note 2479
