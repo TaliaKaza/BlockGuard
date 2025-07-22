@@ -42,3 +42,4 @@ Initial content
 - Update note 2720
 - Update note 6330
 - Update note 5004
+- Update note 3769
